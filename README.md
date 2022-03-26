@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jonzo99
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in software development and I am currently working as an IOS Developer for an anviation company.
+- 📫 You can reach me at jonzojimenez@gmail.com
 
 <!---
 jonzo99/jonzo99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
