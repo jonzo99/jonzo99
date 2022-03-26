@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jonzo99
-- 👀 I’m interested in software development and I am currently working as an IOS Developer for an anviation company.
+- 👀 I’m interested in software development and I am currently working as an IOS Developer for an aviation company.
 - 📫 You can reach me at jonzojimenez@gmail.com
 
 <!---
